@@ -10,7 +10,7 @@ int main() {
     Avec srand(time(0)), la valeur de randomNum change à chaque
     fois que l'on lance le code.*/ 
     srand(time(0)); 
-    int randomNum = rand() % 10;
+    int randomNum = rand() % 100;
     cout << randomNum;
     return 0;
 }
