@@ -11,8 +11,7 @@ void factorielle(int n)
     for (iteration;iteration<n;iteration++) 
     {int iterationp1 = iteration + 1;
     int calcul = copy * iterationp1;
-    copy = calcul;
-    }
+    copy = calcul;}
     cout << copy;}}
 
 int main() {
