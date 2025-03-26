@@ -1,6 +1,5 @@
 # Cpp-que-pas-facile
 [Personnal]Just doing 100 exercices on C++ to discover in depth the language (the repo name is still a stunning french joke lol).
-Salut ! Voici une liste de 100 exercices progressifs en C++ qui suivent le processus d'apprentissage de W3Schools. Je vais les organiser en plusieurs niveaux :  
 
 ### **Niveau 1 : Bases du C++ (20 exercices)**
 1. Afficher "Hello, World!" à l'écran.  
@@ -111,5 +110,3 @@ Salut ! Voici une liste de 100 exercices progressifs en C++ qui suivent le proce
 98. Créer un bot qui répond à des questions simples en console.  
 99. Simuler un mini-système de réservation d’hôtel.  
 100. Écrire un jeu de labyrinthe avec gestion de déplacements.  
-
-Tu veux que je développe certains exercices en premier ? 😊
